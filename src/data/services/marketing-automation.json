@@ -1,0 +1,125 @@
+{
+    "id": "marketing-automation",
+    "title": "Marketing Automation",
+    "excerpt": "Lorem Ipsum is simply dummy text of the ipsum has been the industry standard ever printer specimen book.",
+    "className": "actionOne",
+    "outlineColor": "outlineDanger",
+    "is_featured": true,
+    "images": [
+        {
+            "src": "../../data/images/icons/marketing.png",
+            "alt": "marketing"
+        },
+        {
+            "src": "../../data/images/service/line-one.png",
+            "alt": "marketing icon"
+        },
+        {
+            "src": "../../data/images/service/1.jpg",
+            "alt": "marketing service"
+        }
+    ],
+    "content": [
+        {
+            "id": "layout-one-section",
+            "section": "layout-one-section",
+            "items": [
+                {
+                    "id": "layout-one-pera-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "layout-one-pera-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release."
+                }
+            ]
+        },
+        {
+            "id": "layout-two-section",
+            "section": "layout-two-section",
+            "headings": [
+                {
+                    "level": "h3",
+                    "content": "Why is SEO Important for Marketing?"
+                }
+            ],
+            "items": [
+                {
+                    "id": "layout-two-section-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standar dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specm en book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchae nged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages."
+                },
+                {
+                    "id": "layout-two-section-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standar dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specm en book. It has survived not only five centuries."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../../data/images/service/digital-marketing-1.png"
+                }
+            ]
+        },
+        {
+            "id": "layout-three-section",
+            "section": "layout-three-section",
+            "headings": [
+                {
+                    "level": "h3",
+                    "content": "How Can I Learn SEO?"
+                }
+            ],
+            "items": [
+                {
+                    "id": "layout-three-section-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../../data/images/service/digital-marketing-1.png"
+                }
+            ]
+        },
+        {
+            "id": "layout-four-section",
+            "section": "layout-four-section",
+            "headings": [
+                {
+                    "level": "h3",
+                    "content": "Service Experience"
+                }
+            ],
+            "items": [
+                {
+                    "id": "layout-four-section-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ],
+            "images": [
+                {
+                    "src": "../../data/images/service/digital-marketing-1.png"
+                }
+            ]
+        },
+        {
+            "id": "layout-five-section",
+            "section": "layout-five-section",
+            "headings": [
+                {
+                    "level": "h3",
+                    "content": "SEO Strategy"
+                }
+            ],
+            "items": [
+                {
+                    "id": "layout-five-section-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "layout-five-section-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        }
+    ]
+}

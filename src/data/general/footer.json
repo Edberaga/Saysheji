@@ -1,0 +1,121 @@
+{
+    "id": "footer-data",
+    "section": "footer",
+    "footer": [
+        {
+            "id": "footer-1",
+            "list": [
+                {
+                    "id": "footer-list-11",
+                    "text": "(+88) 454 632 897",
+                    "link": "tel:0123456789",
+                    "icon": "icofont-ui-call"
+                },
+                {
+                    "id": "footer-list-12",
+                    "text": "demo@gmail.com",
+                    "link": "mailto:demo@gmail.com",
+                    "icon": "icofont-send-mail"
+                },
+                {
+                    "id": "footer-list-13",
+                    "text": "Chilton, Texas(TX), 76632",
+                    "link": "/",
+                    "icon": "icofont-google-map"
+                }
+            ]
+        },
+        {
+            "id": "footer-2",
+            "title": "All Services",
+            "list": [
+                {
+                    "id": "footer-list-21",
+                    "text": "Blog Grid Post",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "footer-list-22",
+                    "text": "SEO Optimization",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "footer-list-23",
+                    "text": "Content Marketing",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "footer-list-24",
+                    "text": "Social Marketing",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "footer-list-25",
+                    "text": "Web Analytics",
+                    "link": "/blog-grid"
+                }
+            ]
+        },
+        {
+            "id": "footer-3",
+            "title": "Information",
+            "list": [
+                {
+                    "id": "footer-list-31",
+                    "text": "Vision & Values",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "footer-list-32",
+                    "text": "Winning Awards",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "footer-list-33",
+                    "text": "Leadership",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "footer-list-34",
+                    "text": "Sustainability",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "footer-list-35",
+                    "text": "Careers",
+                    "link": "/blog-grid"
+                }
+            ]
+        },
+        {
+            "id": "footer-4",
+            "title": "Follow Us",
+            "text": "Lorem Ipsum is simply dummy text the printing and typesetting.",
+            "socials": [
+                {
+                    "id": 1,
+                    "icon": "icofont-facebook",
+                    "link": "https://www.facebook.com",
+                    "title": "Facebook"
+                },
+                {
+                    "id": 2,
+                    "icon": "icofont-twitter",
+                    "link": "https://www.twitter.com",
+                    "title": "Twitter"
+                },
+                {
+                    "id": 3,
+                    "icon": "icofont-skype",
+                    "link": "https://www.skpe.com",
+                    "title": "Instagram"
+                }
+            ]
+        },
+        {
+            "id": "footer-copyright",
+            "title": "HasThemes",
+            "link": "https://hasthemes.com/"
+        }
+    ]
+}

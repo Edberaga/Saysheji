@@ -1,0 +1,81 @@
+{
+    "title": "servicesPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "services-section",
+            "section": "services-section",
+            "section_title": {
+                "showIcon": true,
+                "title": "What We Offer",
+                "icon": {
+                    "src": "../../data/images/icons/sharing.png",
+                    "alt": "What We Offer"
+                }
+            }
+        },
+        {
+            "id": "services-why-choose-us-section",
+            "section": "why-choose-us-section",
+            "section_title": {
+                "showShortDec": true,
+                "showSubTitle": true,
+                "subtitle": "// WHAY CHOOSE US?",
+                "title": "We Are Trusted Digital Marketing Company.",
+                "icon": {
+                    "src": "../../data/images/icons/pencile.png",
+                    "alt": "Working Process"
+                },
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.",
+                "dividerBg": "secondary"
+            },
+            "items": [
+                {
+                    "id": "choose-us-1",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/1.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "High Customer Retention Rate"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "choose-us-2",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/2.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Dedicated Customer Support"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "choose-us-3",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/3.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Professional Team Member"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                }
+            ]
+        }
+    ]
+}

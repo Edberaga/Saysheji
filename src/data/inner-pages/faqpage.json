@@ -1,0 +1,88 @@
+{
+    "title": "FAQPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "FAQ-section",
+            "section": "FAQ-section",
+            "section_title": {
+                "showShortDec": false,
+                "showSubTitle": true,
+                "subtitle": "// FAQ.",
+                "title": "Frequiently Asked Question.",
+                "icon": {
+                    "src": "../../data/images/icons/pencile.png",
+                    "alt": "Working Process"
+                },
+                "dividerBg": "secondary"
+            },
+            "images": [
+                {
+                    "src": "../../data/images/faq/1.png"
+                }
+            ],
+            "items": [
+                {
+                    "id": "faq-1",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "How can I start SEO Marketing?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text the printing typesetting industry has been the industry&aposs standard dummy text ever printer took galley of type scrambled."
+                },
+                {
+                    "id": "faq-2",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Dedicated Customer Support"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text the printing typesetting industry has been the industry&aposs standard dummy text ever printer took galley of type scrambled."
+                },
+                {
+                    "id": "faq-3",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Professional Team Member Works"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "faq-4",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Professional Team Member Works"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "faq-5",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "What kind of financial advice do you give?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "faq-5",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "What does an SEO company report look like?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                }
+            ]
+        }
+    ]
+}

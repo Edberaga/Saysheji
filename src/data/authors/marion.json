@@ -1,0 +1,29 @@
+{
+    "name": "Marion",
+    "image": {
+        "src": "../../data/images/team/1.png",
+        "alt": "fdfde"
+    },
+    "description": "UI/UX - Designer",
+    "bio": "He is a lawyer, podcaster, speaker, and writer. As an educational content director, he helps develop HasThemes premium training products.",
+    "socials": [
+        {
+            "id": 1,
+            "icon": "icofont-facebook",
+            "link": "https://www.facebook.com",
+            "title": "Facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icofont-twitter",
+            "link": "https://www.twitter.com",
+            "title": "Twitter"
+        },
+        {
+            "id": 3,
+            "icon": "icofont-skype",
+            "link": "https://www.skpe.com",
+            "title": "Instagram"
+        }
+    ]
+}

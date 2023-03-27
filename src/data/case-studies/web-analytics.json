@@ -1,0 +1,92 @@
+{
+    "id": "web-analytics",
+    "title": "Web Analytics",
+    "excerpt": "excerpt text",
+    "category": "Digital Strategy",
+    "clients": "Margaret Porter",
+    "date": "19 January 2022",
+    "budget": "$5,894.00",
+    "location": "1032 Macdonald Rd.",
+    "is_featured": true,
+    "images": [
+        {
+            "src": "../images/case/6.jpg"
+        }
+    ],
+    "content": [
+        {
+            "id": "case-studies-hero-desc",
+            "section": "case-studies-hero-section",
+            "items": [
+                {
+                    "id": "case-studies-desc-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "case-studies-desc-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release."
+                }
+            ]
+        },
+        {
+            "id": "case-studies-description",
+            "section": "case-studies-description-section",
+            "headings": [
+                {
+                    "level": "h3",
+                    "content": "Case Description"
+                }
+            ],
+            "items": [
+                {
+                    "id": "case-description-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standar dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specm en book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchae nged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages."
+                },
+                {
+                    "id": "case-description-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standar dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specm en book. It has survived not only five centuries."
+                },
+                {
+                    "id": "case-description-3",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standar dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specm en book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchae nged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        },
+        {
+            "id": "case-studies-how-it-work",
+            "section": "case-studies-how-it-Work-section",
+            "headings": [
+                {
+                    "level": "h3",
+                    "content": "How It Work?"
+                }
+            ],
+            "items": [
+                {
+                    "id": "case-description-how-it-Work-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        },
+        {
+            "id": "case-studies-results",
+            "section": "case-studies-results-section",
+            "headings": [
+                {
+                    "level": "h3",
+                    "content": "Results"
+                }
+            ],
+            "items": [
+                {
+                    "id": "case-description-results-1",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                },
+                {
+                    "id": "case-description-results-2",
+                    "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknowne printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent ially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software Aldus PageMaker including versions of Lorem Ipsum."
+                }
+            ]
+        }
+    ]
+}

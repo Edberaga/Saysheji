@@ -1,0 +1,70 @@
+{
+    "id": "menu-data",
+    "section": "menu",
+    "menu": [
+        {
+            "id": "menu-1",
+            "text": "Home",
+            "link": "/"
+        },
+        {
+            "id": "menu-2",
+            "text": "Services",
+            "link": "/services"
+        },
+        {
+            "id": "menu-3",
+            "text": "Case Studies",
+            "link": "/case-studies"
+        },
+        {
+            "id": "menu-5",
+            "text": "Blog",
+            "link": "/blog-grid",
+            "submenu": [
+                {
+                    "id": "menu-51",
+                    "text": "Blog Grid Post",
+                    "link": "/blog-grid"
+                },
+                {
+                    "id": "menu-52",
+                    "text": "Blog Left Sidebar",
+                    "link": "/blog-left-sidebar"
+                },
+                {
+                    "id": "menu-53",
+                    "text": "Blog Right Sidebar",
+                    "link": "/blog-right-sidebar"
+                }
+            ]
+        },
+        {
+            "id": "menu-6",
+            "text": "Pages",
+            "link": "/faq",
+            "submenu": [
+                {
+                    "id": "menu-61",
+                    "text": "About Us Page",
+                    "link": "/about-us"
+                },
+                {
+                    "id": "menu-62",
+                    "text": "FAQ's Page",
+                    "link": "/faq"
+                },
+                {
+                    "id": "menu-63",
+                    "text": "404 not found!",
+                    "link": "/404"
+                }
+            ]
+        },
+        {
+            "id": "menu-7",
+            "text": "Contact",
+            "link": "/contact-us"
+        }
+    ]
+}

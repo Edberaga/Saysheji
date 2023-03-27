@@ -1,0 +1,9 @@
+[
+    {
+        "id": "newsletter-section",
+        "section_title": {
+            "header": "Subscribe To Our Newsletter",
+            "icon": "../../data/images/icons/launcher.png"
+        }
+    }
+]

@@ -1,0 +1,83 @@
+const theme = {
+    colors: {
+        primary: "#02126a",
+        text: "#767988",
+        heading: "#02126a",
+        border: "#E0E0E0",
+        secondary: "#feb423",
+        gradient: "linear-gradient(to right, #fc7318 0%, #feb423 100%)",
+        background: "#fff",
+        hover: "#fc7418",
+        shark: "#929496",
+        silver: "#ababab",
+        nevada: "#63696a",
+        white: "#ffffff",
+        black: "#000000",
+        success: "#61ce70",
+        info: "#17a2b8",
+        warning: "#ffc107",
+        danger: "#dc3545",
+        light: "#f8f9fa",
+        boulder: "#7a7a7a",
+        shaft: "#333333",
+        orange: "#ff6600",
+        red: "#FF0000",
+        alabaster: "#fafafa",
+        mystic: "#e1e8ed",
+        facebook: "#3b5998",
+    },
+    fontSize: {
+        body: "15px",
+        h1: ["32px", "40px", "55px", "45px", "65px", "75px"],
+        h2: ["26px", "30px", "32px", "42px", "48px", "55px"],
+        h3: ["22px", "24px", "26px", "28px", "30px"],
+        h4: ["20px", "25px"],
+        h5: ["18px", "22px"],
+        h6: ["16px", "20px"],
+    },
+    fonts: {
+        body: `'Roboto', sans-serif`,
+        heading: `'Ruda', sans-serif`,
+    },
+    fontWeights: {
+        body: 400,
+        heading: 700,
+    },
+    lineHeights: {
+        body: 2,
+        heading: 1.35,
+    },
+    radii: {
+        default: "4px",
+        sm: "3px",
+        md: "6px",
+        lg: "8px",
+        round: "50%",
+        pill: "500px",
+    },
+    shadows: {
+        default: "0 0 12px 3px rgba(0, 0, 0, 0.06)",
+        sm: "0px -1px 1px 0px rgba(0,0,0, .2)",
+        lg: "0 1rem 3rem rgba(0, 0, 0, .175)",
+    },
+    breakpoints: ["576px", "768px", "992px", "1200px", "1400px", "1600px"],
+    transition: "all 0.4s ease 0s",
+    text: {
+        caps: {
+            textTransform: "uppercase",
+        },
+        small: {
+            fontSize: "14px",
+            fontWeight: 600,
+        },
+        body: {
+            fontFamily: "body",
+            lineHeight: "body",
+            fontWeight: "body",
+            color: "text",
+            fontSize: "body",
+        },
+    },
+};
+
+export default theme;

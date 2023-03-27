@@ -1,0 +1,29 @@
+{
+    "name": "Washington",
+    "image": {
+        "src": "../../data/images/team/3.png",
+        "alt": "fdfde"
+    },
+    "description": "Dingcode",
+    "bio": "Washington been a front-end and UI designer for over 10 years. He helps develop HasThemes premium training products.",
+    "socials": [
+        {
+            "id": 1,
+            "icon": "icofont-facebook",
+            "link": "https://www.facebook.com",
+            "title": "Facebook"
+        },
+        {
+            "id": 2,
+            "icon": "icofont-twitter",
+            "link": "https://www.twitter.com",
+            "title": "Twitter"
+        },
+        {
+            "id": 3,
+            "icon": "icofont-skype",
+            "link": "https://www.skpe.com",
+            "title": "Instagram"
+        }
+    ]
+}

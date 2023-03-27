@@ -1,0 +1,55 @@
+{
+    "title": "ContactUsPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "contact-us-section",
+            "section": "contact-us-section",
+            "section_title": {
+                "showIcon": false,
+                "iconBg": "primary",
+                "title": "Get In Touch.",
+                "align": "left",
+                "dividerBg": "primary"
+            },
+            "items": [
+                {
+                    "id": "Phone",
+                    "icon": "icofont-ui-call",
+                    "headings": [
+                        {
+                            "content": "Phone"
+                        },
+                        {
+                            "content": "(+88) 123 456 789"
+                        }
+                    ]
+                },
+                {
+                    "id": "Email",
+                    "icon": "icofont-send-mail",
+                    "headings": [
+                        {
+                            "content": "Email"
+                        },
+                        {
+                            "content": "seollyinfo@gmail.com"
+                        }
+                    ]
+                },
+                {
+                    "id": "Address",
+                    "icon": "icofont-map-pins",
+                    "headings": [
+                        {
+                            "content": "Address"
+                        },
+                        {
+                            "content": "Chilton, Texas(TX, 766)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

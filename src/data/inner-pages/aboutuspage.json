@@ -1,0 +1,313 @@
+{
+    "title": "aboutUsPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "about-more-section",
+            "section": "about-more-section",
+            "images": [
+                {
+                    "src": "../../data/images/about/2.png",
+                    "alt": "about more image"
+                }
+            ],
+            "items": [
+                {
+                    "id": "since-1987",
+                    "headings": [
+                        {
+                            "level": "h6",
+                            "content": "Since: 1987"
+                        },
+                        {
+                            "level": "h4",
+                            "content": "Welcome To Seolly"
+                        }
+                    ],
+                    "description": "Lorem Ipsum simply dummy text of the printing typesetting sum has been the industry's standard dummy..."
+                },
+                {
+                    "id": "since-1992",
+                    "headings": [
+                        {
+                            "level": "h6",
+                            "content": "Since: 1992"
+                        },
+                        {
+                            "level": "h4",
+                            "content": "Mission And Vission"
+                        }
+                    ],
+                    "description": "Lorem Ipsum simply dummy text of the printing typesetting sum has been the industry's standard dummy... "
+                }
+            ]
+        },
+        {
+            "id": "about-us-page-section",
+            "section": "about-us-why-choose-section",
+            "section_title": {
+                "showShortDec": true,
+                "showSubTitle": true,
+                "subtitle": "// WHAY CHOOSE US?",
+                "title": "We Are Trusted Digital Marketing Company.",
+                "icon": {
+                    "src": "../../data/images/icons/pencile.png",
+                    "alt": "Working Process"
+                },
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.",
+                "dividerBg": "secondary"
+            },
+            "items": [
+                {
+                    "id": "choose-us-1",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/1.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "High Customer Retention Rate"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "choose-us-2",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/2.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Dedicated Customer Support"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "choose-us-3",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/3.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Professional Team Member"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                }
+            ]
+        },
+        {
+            "id": "about-team-members-section",
+            "section": "about-team-members-section",
+            "section_title": {
+                "showIcon": true,
+                "title": "Amazing Team Members",
+                "icon": {
+                    "src": "../../data/images/icons/team.png",
+                    "alt": "Amazing Team Members"
+                },
+                "iconBg": "primary",
+                "color": "white"
+            },
+            "items": [
+                {
+                    "id": "team-members-1",
+                    "images": [
+                        {
+                            "src": "../../data/images/team/1.png"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "icon": "icofont-facebook",
+                            "link": "https://www.facebook.com",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "icon": "icofont-twitter",
+                            "link": "https://www.twitter.com",
+                            "title": "Twitter"
+                        },
+                        {
+                            "id": 3,
+                            "icon": "icofont-skype",
+                            "link": "https://www.skpe.com",
+                            "title": "Instagram"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Willie Mckenzie"
+                        }
+                    ],
+                    "designation": "DIGITAL STRATEGIST"
+                },
+                {
+                    "id": "team-members-2",
+                    "images": [
+                        {
+                            "src": "../../data/images/team/2.png"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "icon": "icofont-facebook",
+                            "link": "https://www.facebook.com",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "icon": "icofont-twitter",
+                            "link": "https://www.twitter.com",
+                            "title": "Twitter"
+                        },
+                        {
+                            "id": 3,
+                            "icon": "icofont-skype",
+                            "link": "https://www.skpe.com",
+                            "title": "Instagram"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Rosie Greene"
+                        }
+                    ],
+                    "designation": "PROJECT MANAGER"
+                },
+                {
+                    "id": "team-members-3",
+                    "images": [
+                        {
+                            "src": "../../data/images/team/3.png"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "icon": "icofont-facebook",
+                            "link": "https://www.facebook.com",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "icon": "icofont-twitter",
+                            "link": "https://www.twitter.com",
+                            "title": "Twitter"
+                        },
+                        {
+                            "id": 3,
+                            "icon": "icofont-skype",
+                            "link": "https://www.skpe.com",
+                            "title": "Instagram"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Stacey Evans"
+                        }
+                    ],
+                    "designation": "UI/UX DESIGNER"
+                },
+                {
+                    "id": "team-members-4",
+                    "images": [
+                        {
+                            "src": "../../data/images/team/4.png"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "icon": "icofont-facebook",
+                            "link": "https://www.facebook.com",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "icon": "icofont-twitter",
+                            "link": "https://www.twitter.com",
+                            "title": "Twitter"
+                        },
+                        {
+                            "id": 3,
+                            "icon": "icofont-skype",
+                            "link": "https://www.skpe.com",
+                            "title": "Instagram"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Marian Adams"
+                        }
+                    ],
+                    "designation": "SEO SPECIALIST"
+                }
+            ]
+        },
+        {
+            "id": "happy-customer-section",
+            "section": "happy-customer-section",
+            "section_title": {
+                "showIcon": true,
+                "iconBg": "primary",
+                "title": "From Happy Customer",
+                "icon": {
+                    "src": "../../data/images/icons/testimonial.png",
+                    "alt": "Working Process"
+                },
+                "dividerBg": "primary"
+            },
+            "items": [
+                {
+                    "id": "testimonial-1",
+                    "images": [
+                        {
+                            "src": "../../data/images/testimonial/lg-1.png"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text the printing and typesetting as been the industry's standard dummy text ever since the 1500s when unknown printer took a galley of type and scrambled it to make specimen book has survived not only five centuries",
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Georgia Jones"
+                        }
+                    ],
+                    "designation": "Ui/Ux designer"
+                },
+                {
+                    "id": "testimonial-2",
+                    "images": [
+                        {
+                            "src": "../../data/images/testimonial/lg-2.png"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.",
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Willie Mckenzie"
+                        }
+                    ],
+                    "designation": "DIGITAL STRATEGIST"
+                }
+            ]
+        }
+    ]
+}

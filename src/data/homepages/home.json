@@ -1,0 +1,594 @@
+{
+    "title": "home",
+    "pageType": "homepage",
+    "content": [
+        {
+            "id": "hero-section-content",
+            "section": "hero-section",
+            "images": [
+                {
+                    "src": "../../data/images/hero/shape1.png",
+                    "alt": "particle3"
+                },
+                {
+                    "src": "../../data/images/hero/shape2.png",
+                    "alt": "particle3"
+                },
+                {
+                    "src": "../../data/images/hero/particle1.png",
+                    "alt": "particle3"
+                },
+                {
+                    "src": "../../data/images/hero/particle2.png",
+                    "alt": "particle3"
+                },
+                {
+                    "src": "../../data/images/hero/particle3.png",
+                    "alt": "particle3"
+                },
+                {
+                    "src": "../../data/images/hero/1.png",
+                    "alt": "particle3"
+                },
+                {
+                    "src": "../../data/images/hero/2.png",
+                    "alt": "particle3"
+                },
+                {
+                    "src": "../../data/images/hero/3.png",
+                    "alt": "particle3"
+                },
+                {
+                    "src": "../../data/images/hero/mobile.png",
+                    "alt": "Mobile Device Image"
+                }
+            ],
+            "headings": [
+                {
+                    "level": "h1",
+                    "content": "Top Ranking Your Brand New Website"
+                }
+            ],
+            "texts": [
+                {
+                    "content": "Top rankings is important for online business."
+                }
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "size": "large",
+                    "shape": "rounded5",
+                    "path": "/contact-us",
+                    "content": "Free Audit Now"
+                }
+            ]
+        },
+        {
+            "id": "home-brand-section",
+            "section": "brand-section",
+            "headings": [
+                {
+                    "level": "h6",
+                    "content": "Trusted by <span>8,980+</span> of The World's Best Organization."
+                }
+            ],
+            "items": [
+                {
+                    "id": "brand-1",
+                    "images": [
+                        {
+                            "src": "../../data/images/brand-logo/1.png",
+                            "alt": "Brand One"
+                        },
+                        {
+                            "src": "../../data/images/brand-logo/1.1.png",
+                            "alt": "Brand One"
+                        }
+                    ]
+                },
+                {
+                    "id": "brand-2",
+                    "images": [
+                        {
+                            "src": "../../data/images/brand-logo/2.png",
+                            "alt": "Brand Two"
+                        },
+                        {
+                            "src": "../../data/images/brand-logo/2.1.png",
+                            "alt": "Brand Two"
+                        }
+                    ]
+                },
+                {
+                    "id": "brand-3",
+                    "images": [
+                        {
+                            "src": "../../data/images/brand-logo/3.png",
+                            "alt": "Brand Three"
+                        },
+                        {
+                            "src": "../../data/images/brand-logo/3.1.png",
+                            "alt": "Brand Three"
+                        }
+                    ]
+                },
+                {
+                    "id": "brand-4",
+                    "images": [
+                        {
+                            "src": "../../data/images/brand-logo/4.png",
+                            "alt": "Brand Four"
+                        },
+                        {
+                            "src": "../../data/images/brand-logo/4.1.png",
+                            "alt": "Brand Four"
+                        }
+                    ]
+                },
+                {
+                    "id": "brand-5",
+                    "images": [
+                        {
+                            "src": "../../data/images/brand-logo/5.png",
+                            "alt": "Brand Five"
+                        },
+                        {
+                            "src": "../../data/images/brand-logo/5.1.png",
+                            "alt": "Brand Five"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "home-services-section",
+            "section": "services-section",
+            "section_title": {
+                "showIcon": true,
+                "title": "What We Offer",
+                "icon": {
+                    "src": "../../data/images/icons/sharing.png",
+                    "alt": "What We Offer"
+                }
+            }
+        },
+        {
+            "id": "home-working-process",
+            "section": "working-process",
+            "section_title": {
+                "showIcon": true,
+                "title": "Working Process",
+                "icon": {
+                    "src": "../../data/images/icons/pencile.png",
+                    "alt": "Working Process"
+                },
+                "color": "white",
+                "iconBg": "primary"
+            },
+            "items": [
+                {
+                    "id": "working-1",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "Idea Generation"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/working/1.png"
+                        },
+                        {
+                            "src": "../../data/images/working/arrow-shape1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "working-2",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "Working Plan"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/working/2.png"
+                        },
+                        {
+                            "src": "../../data/images/working/arrow-shape2.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "working-3",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "SEO Research"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/working/2.png"
+                        },
+                        {
+                            "src": "../../data/images/working/arrow-shape1.png"
+                        }
+                    ]
+                },
+                {
+                    "id": "working-4",
+                    "headings": [
+                        {
+                            "level": "h3",
+                            "content": "Launch Project"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../../data/images/working/2.png"
+                        },
+                        {
+                            "src": "../../data/images/working/arrow-shape2.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "home-why-choose-us-section",
+            "section": "why-choose-us-section",
+            "section_title": {
+                "showShortDec": true,
+                "showSubTitle": true,
+                "subtitle": "// WHAY CHOOSE US?",
+                "title": "We Are Trusted Digital Marketing Company.",
+                "icon": {
+                    "src": "../../data/images/icons/pencile.png",
+                    "alt": "Working Process"
+                },
+                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.",
+                "dividerBg": "secondary"
+            },
+            "items": [
+                {
+                    "id": "choose-us-1",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/1.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "High Customer Retention Rate"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "choose-us-2",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/2.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Dedicated Customer Support"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "choose-us-3",
+                    "images": [
+                        {
+                            "src": "../../data/images/icons/3.png"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Professional Team Member"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                }
+            ]
+        },
+        {
+            "id": "home-case-studies-section",
+            "section": "case-studies-section",
+            "section_title": {
+                "showIcon": true,
+                "title": "Some Case Studies",
+                "icon": {
+                    "src": "../../data/images/icons/pencile.png",
+                    "alt": "Some Case Studies"
+                },
+                "iconBg": "primary"
+            }
+        },
+        {
+            "id": "home-team-members-section",
+            "section": "team-members-section",
+            "section_title": {
+                "showIcon": true,
+                "title": "Amazing Team Members",
+                "icon": {
+                    "src": "../../data/images/icons/team.png",
+                    "alt": "Amazing Team Members"
+                },
+                "iconBg": "primary",
+                "color": "white"
+            },
+            "items": [
+                {
+                    "id": "team-members-1",
+                    "images": [
+                        {
+                            "src": "../../data/images/team/1.png"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "icon": "icofont-facebook",
+                            "link": "https://www.facebook.com",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "icon": "icofont-twitter",
+                            "link": "https://www.twitter.com",
+                            "title": "Twitter"
+                        },
+                        {
+                            "id": 3,
+                            "icon": "icofont-skype",
+                            "link": "https://www.skpe.com",
+                            "title": "Instagram"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Willie Mckenzie"
+                        }
+                    ],
+                    "designation": "DIGITAL STRATEGIST"
+                },
+                {
+                    "id": "team-members-2",
+                    "images": [
+                        {
+                            "src": "../../data/images/team/2.png"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "icon": "icofont-facebook",
+                            "link": "https://www.facebook.com",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "icon": "icofont-twitter",
+                            "link": "https://www.twitter.com",
+                            "title": "Twitter"
+                        },
+                        {
+                            "id": 3,
+                            "icon": "icofont-skype",
+                            "link": "https://www.skpe.com",
+                            "title": "Instagram"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Rosie Greene"
+                        }
+                    ],
+                    "designation": "PROJECT MANAGER"
+                },
+                {
+                    "id": "team-members-3",
+                    "images": [
+                        {
+                            "src": "../../data/images/team/3.png"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "icon": "icofont-facebook",
+                            "link": "https://www.facebook.com",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "icon": "icofont-twitter",
+                            "link": "https://www.twitter.com",
+                            "title": "Twitter"
+                        },
+                        {
+                            "id": 3,
+                            "icon": "icofont-skype",
+                            "link": "https://www.skpe.com",
+                            "title": "Instagram"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Stacey Evans"
+                        }
+                    ],
+                    "designation": "UI/UX DESIGNER"
+                },
+                {
+                    "id": "team-members-4",
+                    "images": [
+                        {
+                            "src": "../../data/images/team/4.png"
+                        }
+                    ],
+                    "socials": [
+                        {
+                            "id": 1,
+                            "icon": "icofont-facebook",
+                            "link": "https://www.facebook.com",
+                            "title": "Facebook"
+                        },
+                        {
+                            "id": 2,
+                            "icon": "icofont-twitter",
+                            "link": "https://www.twitter.com",
+                            "title": "Twitter"
+                        },
+                        {
+                            "id": 3,
+                            "icon": "icofont-skype",
+                            "link": "https://www.skpe.com",
+                            "title": "Instagram"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Marian Adams"
+                        }
+                    ],
+                    "designation": "SEO SPECIALIST"
+                }
+            ]
+        },
+        {
+            "id": "home-frequiently-asked-question-section",
+            "section": "frequiently-asked-question-section",
+            "section_title": {
+                "showShortDec": false,
+                "showSubTitle": true,
+                "subtitle": "// FAQ.",
+                "title": "Frequiently Asked Question.",
+                "icon": {
+                    "src": "../../data/images/icons/pencile.png",
+                    "alt": "Working Process"
+                },
+                "dividerBg": "secondary"
+            },
+            "images": [
+                {
+                    "src": "../../data/images/faq/1.png"
+                }
+            ],
+            "items": [
+                {
+                    "id": "faq-1",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "How can I start SEO Marketing?"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text the printing typesetting industry has been the industry&aposs standard dummy text ever printer took galley of type scrambled."
+                },
+                {
+                    "id": "faq-2",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Dedicated Customer Support"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text the printing typesetting industry has been the industry&aposs standard dummy text ever printer took galley of type scrambled."
+                },
+                {
+                    "id": "faq-3",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Professional Team Member Works"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                },
+                {
+                    "id": "faq-4",
+                    "headings": [
+                        {
+                            "level": "h5",
+                            "content": "Professional Team Member Works"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                }
+            ]
+        },
+        {
+            "id": "home-happy-customer-section",
+            "section": "happy-customer-section",
+            "section_title": {
+                "showIcon": true,
+                "iconBg": "primary",
+                "title": "From Happy Customer",
+                "icon": {
+                    "src": "../../data/images/icons/testimonial.png",
+                    "alt": "Working Process"
+                },
+                "dividerBg": "primary"
+            },
+            "items": [
+                {
+                    "id": "testimonial-1",
+                    "images": [
+                        {
+                            "src": "../../data/images/testimonial/lg-1.png"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text the printing and typesetting as been the industry's standard dummy text ever since the 1500s when unknown printer took a galley of type and scrambled it to make specimen book has survived not only five centuries",
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Georgia Jones"
+                        }
+                    ],
+                    "designation": "Ui/Ux designer"
+                },
+                {
+                    "id": "testimonial-2",
+                    "images": [
+                        {
+                            "src": "../../data/images/testimonial/lg-2.png"
+                        }
+                    ],
+                    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.",
+                    "headings": [
+                        {
+                            "level": "h4",
+                            "content": "Willie Mckenzie"
+                        }
+                    ],
+                    "designation": "DIGITAL STRATEGIST"
+                }
+            ]
+        },
+        {
+            "id": "home-blog-section",
+            "section": "blog-section",
+            "section_title": {
+                "showIcon": false,
+                "iconBg": "primary",
+                "title": "Latest News From Our Blog.",
+                "dividerBg": "secondary",
+                "align": "left"
+            }
+        }
+    ]
+}

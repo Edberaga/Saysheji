@@ -1,0 +1,18 @@
+{
+    "title": "casestudiesPage",
+    "pageType": "innerpage",
+    "content": [
+        {
+            "id": "casestudies-section",
+            "section": "casestudies-section",
+            "section_title": {
+                "showIcon": true,
+                "title": "What We Offer",
+                "icon": {
+                    "src": "../../data/images/icons/sharing.png",
+                    "alt": "What We Offer"
+                }
+            }
+        }
+    ]
+}
