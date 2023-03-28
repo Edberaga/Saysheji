@@ -8,6 +8,7 @@ import {
     Description,
     Number,
 } from "./style";
+
 const ErrorContent = () => {
     return (
         <ErrorCard>
