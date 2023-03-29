@@ -4,7 +4,7 @@
     "excerpt": "Lorem Ipsum is simply dummy text of the ipsum has been the industry standard ever printer specimen book.",
     "className": "actionOne",
     "outlineColor": "outlineDanger",
-    "is_featured": true,
+    "is_featured": false,
     "images": [
         {
             "src": "../../data/images/icons/marketing.png",
