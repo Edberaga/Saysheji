@@ -62,7 +62,7 @@ const Hero = ({ data }) => {
                                 <Input
                                     className="form-box"
                                     type="text"
-                                    placeholder="https://yourwebsite.com"
+                                    placeholder="youremail@email.com"
                                 />
 
                                 {data?.buttons &&
