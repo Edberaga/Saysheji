@@ -26,7 +26,7 @@ const HeaderTopArea = () => {
                             bgColor="transparent"
                             border="border-right"
                         >
-                            <SocialLink href="https://www.facebook.com/">
+                            <SocialLink href="https://www.facebook.com/saysheji/">
                                 <i className="icofont-facebook"></i>
                             </SocialLink>
                             <SocialLink href="https://twitter.com/home/">
@@ -55,7 +55,7 @@ const HeaderTopArea = () => {
                                     borderLeft: "1px solid #273581",
                                 }}
                             >
-                                Cell: <a href="tel:0123456789">0123456789</a>
+                                Cell: <a href="tel:0136683939">60136683939</a>
                             </CallToAction>
                             <SelectLanguage>
                                 <FormSelect>
