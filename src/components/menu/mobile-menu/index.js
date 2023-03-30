@@ -114,7 +114,7 @@ const MobileNavMenu = ({ MobilemenuData, ofcanvasOpen, ofcanvasHandaler }) => {
                 </NavMunuUl>
 
                 <Social sx={{ mt: "30px" }} space={10} size="md" shape="square">
-                    <SocialLink href="https://www.facebook.com/">
+                    <SocialLink href="https://www.facebook.com/saysheji/">
                         <i className="icofont-facebook"></i>
                     </SocialLink>
                     <SocialLink href="https://twitter.com/home/">
