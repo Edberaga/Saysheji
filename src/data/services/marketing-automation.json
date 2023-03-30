@@ -1,10 +1,10 @@
 {
-    "id": "marketing-automation",
-    "title": "Marketing Automation",
-    "excerpt": "Lorem Ipsum is simply dummy text of the ipsum has been the industry standard ever printer specimen book.",
+    "id": "web-3-in-social-media",
+    "title": "Web 3 in Social Media",
+    "excerpt": "Our Web3-based social media apps completely transfrom how social media apps aperate by taking control of the data from the platform and giving it back to the end users.",
     "className": "actionOne",
     "outlineColor": "outlineDanger",
-    "is_featured": false,
+    "is_featured": true,
     "images": [
         {
             "src": "../../data/images/icons/marketing.png",
