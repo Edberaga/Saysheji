@@ -13,6 +13,8 @@ module.exports = `
         id: ID!
         section: String!
         headings: [Heading]
+        intro: [Text]
+        mid: [Text]
         texts: [Text]
         items: [Item]
         section_title: SectionTitle
