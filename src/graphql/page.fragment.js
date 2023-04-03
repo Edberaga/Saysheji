@@ -7,6 +7,12 @@ export const query = graphql`
             level
             content
         }
+        intro {
+            content
+        }
+        mid {
+            content
+        }
         texts {
             content
         }
