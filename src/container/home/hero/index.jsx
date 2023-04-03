@@ -52,6 +52,18 @@ const Hero = ({ data }) => {
                             {data?.headings?.[0] && (
                                 <Title>{data.headings[0].content}</Title>
                             )}
+                            {data?.intro?.[0] && (
+                                <DecText>
+                                    <span className="hr d-none d-xl-block"></span>
+                                    {data.intro[0].content}
+                                </DecText>
+                            )}
+                            {data?.mid?.[0] && (
+                                <DecText>
+                                    <span className="hr d-none d-xl-block"></span>
+                                    {data.mid[0].content}
+                                </DecText>
+                            )}
                             {data?.texts?.[0] && (
                                 <DecText>
                                     <span className="hr d-none d-xl-block"></span>
@@ -130,6 +142,16 @@ Hero.propTypes = {
         headings: PropTypes.arrayOf(
             PropTypes.shape({
                 level: PropTypes.string,
+                content: PropTypes.string,
+            })
+        ),
+        intro: PropTypes.arrayOf(
+            PropTypes.shape({
+                content: PropTypes.string,
+            })
+        ),
+        mid: PropTypes.arrayOf(
+            PropTypes.shape({
                 content: PropTypes.string,
             })
         ),
