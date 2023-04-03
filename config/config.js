@@ -1,9 +1,9 @@
 /* eslint-disable prettier/prettier */
 module.exports = {
-    title: "Pringo",
-    titleTemplate: "Digital Marketing React Gatsby Template",
+    title: "Say Sheji",
+    titleTemplate: "Digital Agency",
     description: "React Gatsby",
-    author: "pringo",
+    author: "Kasey Fong",
     twitterUsername: "@pringo",
     keywords: [
         "bootstrap",
@@ -14,7 +14,7 @@ module.exports = {
         "Digital Marketing",
     ],
     image: "",
-    siteUrl: "https://pringo.com",
+    siteUrl: "https://saysheji.com",
     pathPrefix: "/",
     localUrl: "http://localhost:8000",
     canonical: "",
@@ -25,7 +25,7 @@ module.exports = {
     },
     siteLanguage: "en",
     favicon: "src/assets/images/favicon.png", // Used for manifest favicon generation
-    shortName: "Pringo", // shortname for manifest. *Must* be shorter than 12 characters
+    shortName: "Saysheji", // shortname for manifest. *Must* be shorter than 12 characters
     themeColor: "#5E60E7",
     backgroundColor: "#fff",
 };
