@@ -22,14 +22,8 @@ const CareerPages = ({ data, location, pageContext }) => {
                 location={location}
                 title="Careers"
             />
-            {/*
-            <ServicsArea
-                data={{
-                    ...content["services-section"],
-                    items: data.allServices.nodes,
-                }}
-            /> 
-            */}
+            <h1>Hello</h1>
+            
         </Layout>
     );
 };

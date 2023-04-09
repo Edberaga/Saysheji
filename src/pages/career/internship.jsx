@@ -22,6 +22,7 @@ const Internship = ({ data, location, pageContext }) => {
                 location={location}
                 title="Internship"
             />
+            
             {/*
             <ServicsArea
                 data={{
