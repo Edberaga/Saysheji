@@ -586,6 +586,8 @@ progress {
     --bs-gutter-x: 1.5rem;
     --bs-gutter-y: 0;
     display: flex;
+    justify-content: center;
+    align-items: flex-start;
     flex-wrap: wrap;
     margin-top: calc(var(--bs-gutter-y) * -1);
     margin-right: calc(var(--bs-gutter-x) * -0.5);
@@ -3738,7 +3740,7 @@ fieldset:disabled .btn {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
 }
@@ -3752,7 +3754,7 @@ fieldset:disabled .btn {
     display: flex;
     flex-wrap: inherit;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 .navbar-brand {
     padding-top: 0.3125rem;
@@ -5051,7 +5053,7 @@ fieldset:disabled .btn {
     display: flex;
     flex-shrink: 0;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 1rem 1rem;
     border-bottom: 1px solid #dee2e6;
     border-top-left-radius: calc(0.3rem - 1px);
@@ -5751,7 +5753,7 @@ fieldset:disabled .btn {
 .offcanvas-header {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     padding: 1rem 1rem;
 }
 .offcanvas-header .btn-close {
