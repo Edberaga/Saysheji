@@ -58,10 +58,10 @@ export const CaseDetailsCol = styled.div`
     .clients-hr {
         background-image: -webkit-linear-gradient(
             0deg,
-            #fc7318 0%,
-            #feb423 100%
+            #38F9FF 0%,
+            #38B6FF 100%
         );
-        background-image: -ms-linear-gradient(0deg, #fc7318 0%, #feb423 100%);
+        background-image: -ms-linear-gradient(0deg, #38F9FF 0%, #38B6FF 100%);
         position: relative;
         display: block;
         width: 20px;

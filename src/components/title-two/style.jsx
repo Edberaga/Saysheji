@@ -11,12 +11,12 @@ export const SubTitle = styled.h5`
         linear,
         left top,
         right top,
-        from(#fc7318),
-        to(#feb423)
+        from(#38B6FF),
+        to(#38F9FF)
     );
-    background: -webkit-linear-gradient(left, #fc7318 0%, #feb423 100%);
-    background: -o-linear-gradient(left, #fc7318 0%, #feb423 100%);
-    background: linear-gradient(to right, #fc7318 0%, #feb423 100%);
+    background: -webkit-linear-gradient(left, #38B6FF 0%, #38F9FF 100%);
+    background: -o-linear-gradient(left, #38B6FF 0%, #38F9FF 100%);
+    background: linear-gradient(to right, #38B6FF 0%, #38F9FF 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: relative;
@@ -50,7 +50,7 @@ export const DividerBar = styled.span`
     ${({ dividerBg }) =>
         dividerBg === "primary" &&
         css`
-            background-image: linear-gradient(0deg, #fc7318 0%, #feb423 100%);
+            background-image: linear-gradient(0deg, #38F9FF 0%, #38B6FF 100%);
             &::before,
             &::after {
                 background: #e6e9f5;
@@ -59,7 +59,7 @@ export const DividerBar = styled.span`
     ${({ dividerBg }) =>
         dividerBg === "secondary" &&
         css`
-            background-image: linear-gradient(0deg, #fc7318 0%, #feb423 100%);
+            background-image: linear-gradient(0deg, #38F9FF 0%, #38B6FF 100%);
             &::before,
             &::after {
                 background: #02126a;

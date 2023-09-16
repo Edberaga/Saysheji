@@ -18,18 +18,15 @@ export const CaseStudiesSection = styled.section`
     .case-studies-slider-button-next {
         background: linear-gradient(
             to right,
-            #fc7318,
-            #fe8415,
-            #fe9515,
-            #fea51a,
-            #feb423
+            #38F9FF,
+            #38B6FF
         );
         border: solid 2px transparent;
         background-image: linear-gradient(
                 rgba(255, 255, 255, 0),
                 rgba(255, 255, 255, 0)
             ),
-            linear-gradient(101deg, #fc7318 0%, #feb423 100%);
+            linear-gradient(101deg, #38F9FF 0%, #38B6FF 100%);
         background-origin: border-box;
         background-clip: content-box, border-box;
         -webkit-box-shadow: 2px 1000px 1px #f7faff inset;

@@ -12,11 +12,8 @@ export const createStyles = (theme, color, size, shape, variant) => css`
     &:hover {
         background: linear-gradient(
             to left,
-            #fc7318,
-            #fe8415,
-            #fe9515,
-            #fea51a,
-            #feb423
+            #38F9FF,
+            #38B6FF
         );
     }
     i {
@@ -34,12 +31,8 @@ export const createStyles = (theme, color, size, shape, variant) => css`
         &:hover,
         &:focus {
             background: linear-gradient(
-                to left,
-                #fc7318,
-                #fe8415,
-                #fe9515,
-                #fea51a,
-                #feb423
+                #38F9FF,
+                #38B6FF
             );
             color: ${theme.colors.white};
             box-shadow: none;

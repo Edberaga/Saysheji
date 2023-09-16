@@ -105,7 +105,7 @@ export const DividerBar = styled.span`
     ${({ dividerBg }) =>
         dividerBg === "primary" &&
         css`
-            background-image: linear-gradient(0deg, #fc7318 0%, #feb423 100%);
+            background-image: linear-gradient(0deg, #38F9FF 0%, #38B6FF 100%);
             &::before,
             &::after {
                 background: #e6e9f5;
@@ -114,7 +114,7 @@ export const DividerBar = styled.span`
     ${({ dividerBg }) =>
         dividerBg === "secondary" &&
         css`
-            background-image: linear-gradient(0deg, #fc7318 0%, #feb423 100%);
+            background-image: linear-gradient(0deg, #38F9FF 0%, #38B6FF 100%);
             &::before,
             &::after {
                 background: #02126a;

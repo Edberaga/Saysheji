@@ -13,7 +13,7 @@ export const SubTitle = styled.h6`
     line-height: 2.8;
     font-size: 15px;
     margin-bottom: 0px;
-    background: linear-gradient(to right, #fc7318 0%, #feb423 100%);
+    background: linear-gradient(to right, #38F9FF 0%, #38B6FF 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 `;

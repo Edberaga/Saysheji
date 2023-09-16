@@ -20,13 +20,13 @@ export const HeroSection = styled.section`
     border-top: 1px solid #f0f0f0;
     z-index: 0;
     ${device.large} {
-        margin-bottom: 80px;
+        margin-bottom: 40px;
     }
     ${device.xlarge} {
-        margin-bottom: 150px;
+        margin-bottom: 50px;
     }
     ${device.xxlarge} {
-        margin-bottom: 250px;
+        margin-bottom: 50px;
     }
     img {
         max-width: 100%;

@@ -10,7 +10,7 @@ export const Quote = styled.span`
     font-weight: 700;
     line-height: 1;
     font-size: 190px;
-    background: linear-gradient(to right, #fc7318 0%, #feb423 100%);
+    background: linear-gradient(to right, #38F9FF 0%, #38B6FF 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     position: absolute;
