@@ -15,16 +15,16 @@ const ProfileCard = ({ title }) => {
             <ProfileThumb className="blog-thumb">
                 <Link to="/">
                     <StaticImage
-                        src="../../../data/images/blog/profile.png"
+                        src="../../../data/images/team/kasey.png"
                         alt="images-not_found"
                     />
                 </Link>
             </ProfileThumb>
             <ProfileContent>
                 <Title>
-                    <Link to="/">{"Marion Washington"}</Link>
+                    Kasey Fong
                 </Title>
-                <Designation>Digital Strategist</Designation>
+                <Designation>Creative Director</Designation>
                 <Social
                     sx={{ mt: "20px" }}
                     space={15}
@@ -32,16 +32,16 @@ const ProfileCard = ({ title }) => {
                     bgColor="bgWhite"
                     shape="square"
                 >
-                    <SocialLink href="https://www.facebook.com/">
+                    <SocialLink href="https://www.facebook.com/saysheji/">
                         <i className="icofont-facebook"></i>
                     </SocialLink>
-                    <SocialLink href="https://twitter.com/home/">
-                        <i className="icofont-twitter"></i>
+                    <SocialLink href="https://www.instagram.com/kaseyfongkz/">
+                        <i className="icofont-instagram"></i>
                     </SocialLink>
-                    <SocialLink href="https://www.skype.com/">
-                        <i className="icofont-skype"></i>
+                    <SocialLink href="https://wa.link/ww95ke/">
+                        <i className="icofont-whatsapp"></i>
                     </SocialLink>
-                    <SocialLink href="https://www.linkedin.com/">
+                    <SocialLink href="https://www.linkedin.com/in/kaseyfongkz/">
                         <i className="icofont-linkedin"></i>
                     </SocialLink>
                 </Social>
