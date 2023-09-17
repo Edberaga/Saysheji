@@ -5,7 +5,7 @@ import { AboutBanner, Title, DescriptionText } from "./style";
 
 const AboutUsBanner = () => {
     return (
-        <AboutBanner>
+        <AboutBanner className="box-container">
             <Link to="/" className="logo">
                 <StaticImage
                     src="../../data/images/about/logo.png"
@@ -14,7 +14,7 @@ const AboutUsBanner = () => {
             </Link>
             <Title>We Are Different From Others.</Title>
             <DescriptionText>
-                Cell: <a href="tel:+8846897546">+88 468 975 46</a>
+                Call: <a href="tel:+8846897546">+60 13-668 3939</a>
             </DescriptionText>
             <Button path="/" size="medium" shape="rounded5">
                 Contact Us <i className="icofont-rounded-double-right"></i>
