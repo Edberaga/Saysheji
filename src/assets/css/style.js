@@ -214,7 +214,6 @@ export const GlobalCSS = () => {
                     color: ${theme.colors.text};
                     text-decoration: none;
                     &:hover {
-                        text-decoration: none;
                         color: ${theme.colors.hover};
                     }
                 }
