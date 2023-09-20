@@ -30,29 +30,24 @@
             "title": "All Services",
             "list": [
                 {
-                    "id": "footer-list-21",
-                    "text": "Blog Grid Post",
-                    "link": "/blog-grid"
-                },
-                {
                     "id": "footer-list-22",
-                    "text": "SEO Optimization",
-                    "link": "/blog-grid"
+                    "text": "Defi Development",
+                    "link": "/services/defi-development"
                 },
                 {
                     "id": "footer-list-23",
-                    "text": "Content Marketing",
-                    "link": "/blog-grid"
+                    "text": "NFT Development",
+                    "link": "/services/nft-development"
                 },
                 {
                     "id": "footer-list-24",
-                    "text": "Social Marketing",
-                    "link": "/blog-grid"
+                    "text": "Smart Contract",
+                    "link": "/services/smart-contract-development"
                 },
                 {
                     "id": "footer-list-25",
-                    "text": "Web Analytics",
-                    "link": "/blog-grid"
+                    "text": "Web 3 Social Media",
+                    "link": "/services/web-3-in-social-media"
                 }
             ]
         },
@@ -63,34 +58,29 @@
                 {
                     "id": "footer-list-31",
                     "text": "Vision & Values",
-                    "link": "/blog-grid"
+                    "link": "/about-us/"
                 },
                 {
                     "id": "footer-list-32",
-                    "text": "Winning Awards",
-                    "link": "/blog-grid"
+                    "text": "Our Projects",
+                    "link": "/#"
                 },
                 {
                     "id": "footer-list-33",
-                    "text": "Leadership",
-                    "link": "/blog-grid"
+                    "text": "FAQ",
+                    "link": "/faq"
                 },
                 {
                     "id": "footer-list-34",
-                    "text": "Sustainability",
-                    "link": "/blog-grid"
-                },
-                {
-                    "id": "footer-list-35",
-                    "text": "Careers",
-                    "link": "/blog-grid"
+                    "text": "Our Contacts",
+                    "link": "/contact-us"
                 }
             ]
         },
         {
             "id": "footer-4",
             "title": "Follow Us",
-            "text": "Lorem Ipsum is simply dummy text the printing and typesetting.",
+            "text": "Stay connected with us and be the first to know about the latest updates, news, and exciting happenings",
             "socials": [
                 {
                     "id": 1,
@@ -100,15 +90,15 @@
                 },
                 {
                     "id": 2,
-                    "icon": "icofont-twitter",
-                    "link": "https://www.twitter.com",
-                    "title": "Twitter"
+                    "icon": "icofont-instagram",
+                    "link": "https://www.instagram.com/kaseyfongkz/",
+                    "title": "Instagram"
                 },
                 {
                     "id": 3,
-                    "icon": "icofont-skype",
-                    "link": "https://www.skpe.com",
-                    "title": "Instagram"
+                    "icon": "icofont-whatsapp",
+                    "link": "https://wa.link/ww95ke",
+                    "title": "WhatsApp"
                 }
             ]
         },
