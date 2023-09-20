@@ -253,13 +253,13 @@
             "section_title": {
                 "showShortDec": true,
                 "showSubTitle": true,
-                "subtitle": "// WHAY CHOOSE US?",
+                "subtitle": "// WHY CHOOSE US?",
                 "title": "We Are Trusted Digital Marketing Company.",
                 "icon": {
                     "src": "../../data/images/icons/pencile.png",
                     "alt": "Working Process"
                 },
-                "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type scrambled.",
+                "description": "In today's fast-paced digital landscape, choosing the right partner for your digital marketing needs is critical to your success. Say Sheji Digital Marketing Company stands out as a beacon of trust and expertise in this dynamic realm. Here's why we are the choice you can rely on:",
                 "dividerBg": "secondary"
             },
             "items": [
@@ -276,7 +276,7 @@
                             "content": "High Customer Retention Rate"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                    "description": "It signifies that a company not only attracts new customers but also excels at keeping them satisfied and engaged over the long term. "
                 },
                 {
                     "id": "choose-us-2",
@@ -291,7 +291,7 @@
                             "content": "Dedicated Customer Support"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                    "description": "With dedicated support staff, issues and inquiries can be addressed more promptly, leading to faster problem resolution and improved customer satisfaction."
                 },
                 {
                     "id": "choose-us-3",
@@ -306,7 +306,7 @@
                             "content": "Professional Team Member"
                         }
                     ],
-                    "description": "Lorem Ipsum is simply dummy text of the printing typesetting Ipsum has been the industry's standard dummy."
+                    "description": "Our team comprises seasoned experts in digital marketing, each with a deep understanding of the ever-evolving online ecosystem."
                 }
             ]
         },
@@ -341,142 +341,38 @@
                     "id": "team-members-1",
                     "images": [
                         {
-                            "src": "../../data/images/team/1.png"
+                            "src": "../../data/images/team/kasey.png"
                         }
                     ],
                     "socials": [
                         {
                             "id": 1,
                             "icon": "icofont-facebook",
-                            "link": "https://www.facebook.com",
+                            "link": "https://www.facebook.com/saysheji",
                             "title": "Facebook"
                         },
                         {
                             "id": 2,
-                            "icon": "icofont-twitter",
-                            "link": "https://www.twitter.com",
-                            "title": "Twitter"
+                            "icon": "icofont-instagram",
+                            "link": "https://www.instagram.com/kaseyfongkz/",
+                            "title": "Instagram"
                         },
                         {
                             "id": 3,
-                            "icon": "icofont-skype",
-                            "link": "https://www.skpe.com",
-                            "title": "Instagram"
+                            "icon": "icofont-whatsapp",
+                            "link": "https://wa.link/ww95ke",
+                            "title": "WhatsApp"
                         }
                     ],
                     "headings": [
                         {
                             "level": "h4",
-                            "content": "Willie Mckenzie"
+                            "content": "Kasey Fong"
                         }
                     ],
-                    "designation": "DIGITAL STRATEGIST"
-                },
-                {
-                    "id": "team-members-2",
-                    "images": [
-                        {
-                            "src": "../../data/images/team/2.png"
-                        }
-                    ],
-                    "socials": [
-                        {
-                            "id": 1,
-                            "icon": "icofont-facebook",
-                            "link": "https://www.facebook.com",
-                            "title": "Facebook"
-                        },
-                        {
-                            "id": 2,
-                            "icon": "icofont-twitter",
-                            "link": "https://www.twitter.com",
-                            "title": "Twitter"
-                        },
-                        {
-                            "id": 3,
-                            "icon": "icofont-skype",
-                            "link": "https://www.skpe.com",
-                            "title": "Instagram"
-                        }
-                    ],
-                    "headings": [
-                        {
-                            "level": "h4",
-                            "content": "Rosie Greene"
-                        }
-                    ],
-                    "designation": "PROJECT MANAGER"
-                },
-                {
-                    "id": "team-members-3",
-                    "images": [
-                        {
-                            "src": "../../data/images/team/3.png"
-                        }
-                    ],
-                    "socials": [
-                        {
-                            "id": 1,
-                            "icon": "icofont-facebook",
-                            "link": "https://www.facebook.com",
-                            "title": "Facebook"
-                        },
-                        {
-                            "id": 2,
-                            "icon": "icofont-twitter",
-                            "link": "https://www.twitter.com",
-                            "title": "Twitter"
-                        },
-                        {
-                            "id": 3,
-                            "icon": "icofont-skype",
-                            "link": "https://www.skpe.com",
-                            "title": "Instagram"
-                        }
-                    ],
-                    "headings": [
-                        {
-                            "level": "h4",
-                            "content": "Stacey Evans"
-                        }
-                    ],
-                    "designation": "UI/UX DESIGNER"
-                },
-                {
-                    "id": "team-members-4",
-                    "images": [
-                        {
-                            "src": "../../data/images/team/4.png"
-                        }
-                    ],
-                    "socials": [
-                        {
-                            "id": 1,
-                            "icon": "icofont-facebook",
-                            "link": "https://www.facebook.com",
-                            "title": "Facebook"
-                        },
-                        {
-                            "id": 2,
-                            "icon": "icofont-twitter",
-                            "link": "https://www.twitter.com",
-                            "title": "Twitter"
-                        },
-                        {
-                            "id": 3,
-                            "icon": "icofont-skype",
-                            "link": "https://www.skpe.com",
-                            "title": "Instagram"
-                        }
-                    ],
-                    "headings": [
-                        {
-                            "level": "h4",
-                            "content": "Marian Adams"
-                        }
-                    ],
-                    "designation": "SEO SPECIALIST"
+                    "designation": "CREATIVE FOUNDER"
                 }
+                
             ]
         },
         {
