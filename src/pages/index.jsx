@@ -26,7 +26,6 @@ const IndexPage = ({ data }) => {
         >
             <SEO title="Home" pathname="/" />
             <Hero data={content["hero-section"]} />
-            <BrandArea data={content["brand-section"]} />
             <ServicesArea
                 data={{
                     ...content["services-section"],
@@ -35,15 +34,14 @@ const IndexPage = ({ data }) => {
             />
             <WorkingProcessArea data={content["working-process"]} />
             <WhyChooseUsArea data={content["why-choose-us-section"]} />
-            <CaseStudiesArea
+            {/*<CaseStudiesArea
                 data={{
                     ...content["case-studies-section"],
                     items: data.allCaseStudies.nodes,
                 }}
-            />
+            />*/}
             <TeamArea data={content["team-members-section"]} />
             <FAQArea data={content["frequiently-asked-question-section"]} />
-            <TestimonialArea data={content["happy-customer-section"]} />
             <LatestBlogArea
                 data={{
                     ...content["blog-section"],
