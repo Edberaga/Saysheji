@@ -24,7 +24,7 @@ export const PageBreadcrumbWrap = styled.div`
         right: -42px;
     }
     ${device.large} {
-        padding: 120px 0px;
+        padding: 50px 0px;
         .shape1 {
             top: 0;
             left: 0;
