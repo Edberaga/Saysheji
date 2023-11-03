@@ -35,9 +35,6 @@ const HeaderTopArea = () => {
                             <SocialLink href="https://wa.link/ww95ke/">
                                 <i className="icofont-whatsapp"></i>
                             </SocialLink>
-                            <SocialLink href="https://www.linkedin.com/in/kaseyfongkz/">
-                                <i className="icofont-linkedin"></i>
-                            </SocialLink>
                         </Social>
                     </Col>
 
