@@ -10,11 +10,19 @@ const rotation = keyframes`
 `;
 export const ServiceCard = styled.div`
     display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
     position: relative;
     background: #f7faff;
     padding: 30px 25px 30px 25px;
     border-radius: 15px;
     margin-bottom: 30px;
+    ${device.large} {
+        flex-direction: row;
+        align-items: flex-start;
+        text-align: left;
+    }
     ${device.xlarge} {
         padding: 40px 40px 40px 50px;
     }
@@ -34,7 +42,7 @@ export const ServiceIcon = styled.div`
     box-shadow: 0px 22px 35px 0px rgb(2 18 106 / 8%);
     min-width: 100px;
     height: 100px;
-    margin-right: 25px;
+    margin: 0 25px 15px 0;
     border-radius: 100%;
     ${device.xlarge} {
         min-width: 115px;
