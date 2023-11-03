@@ -5,10 +5,16 @@ export const ContactMediaList = styled.div`
     padding: 25px 30px;
     border-radius: 15px;
     display: flex;
+    flex-direction: column;
+    text-align: center;
     align-items: center;
     margin-bottom: 25px;
     &:last-type-of: {
         margin-bottom: 0px;
+    }
+    ${device.medium} {
+        flex-direction: row;
+        text-align: left;
     }
 
     .icon {
@@ -28,6 +34,7 @@ export const ContactMediaList = styled.div`
         }
         span {
             font-size: 30px;
+            
             background: ${themeGet("colors.gradient")};
             background-clip: border-box;
             -webkit-background-clip: text;
@@ -48,12 +55,11 @@ export const ContactMediaList = styled.div`
             -webkit-text-fill-color: transparent;
         }
         .number {
-            line-height: 1;
             font-weight: 700;
             color: #02126a;
             font-size: 16px;
             ${device.medium} {
-                font-size: 20px;
+                font-size: 15px;
             }
         }
     }
