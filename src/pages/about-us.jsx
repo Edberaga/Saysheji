@@ -28,7 +28,6 @@ const AboutUsPage = ({ data, location, pageContext }) => {
             <AboutMoreArea data={content["about-more-section"]} />
             <WhyChooseUsArea data={content["about-us-why-choose-section"]} />
             <TeamArea data={content["about-team-members-section"]} />
-            <TestimonialArea data={content["happy-customer-section"]} />
         </Layout>
     );
 };
