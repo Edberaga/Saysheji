@@ -20,12 +20,12 @@ export const HeaderBottomArea = styled.div`
 `;
 export const ManimenuWrap = styled.div`
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
 `;
 export const Menu = styled.div`
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
 `;
 // Mobile Menu Icon UI
